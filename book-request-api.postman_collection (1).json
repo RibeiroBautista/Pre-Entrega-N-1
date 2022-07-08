@@ -12,7 +12,7 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "https://kind-silicon-airplane.glitch.me/api/carrito",
+					"raw": "https://cuboid-loving-acrylic.glitch.me/api/carrito",
 					"protocol": "https",
 					"host": [
 						"kind-silicon-airplane",
@@ -33,7 +33,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "https://kind-silicon-airplane.glitch.me/api/carrito/4",
+					"raw": "https://cuboid-loving-acrylic.glitch.me/api/carrito/4",
 					"protocol": "https",
 					"host": [
 						"kind-silicon-airplane",
@@ -55,7 +55,7 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "https://kind-silicon-airplane.glitch.me/api/carrito/3/productos",
+					"raw": "https://cuboid-loving-acrylic.glitch.me/api/carrito/3/productos",
 					"protocol": "https",
 					"host": [
 						"kind-silicon-airplane",
@@ -78,7 +78,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://kind-silicon-airplane.glitch.me/api/carrito/3/productos",
+					"raw": "https://cuboid-loving-acrylic.glitch.me/api/carrito/3/productos",
 					"protocol": "https",
 					"host": [
 						"kind-silicon-airplane",
@@ -101,7 +101,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "https://kind-silicon-airplane.glitch.me/api/carrito/2/productos/2",
+					"raw": "https://cuboid-loving-acrylic.glitch.me/api/carrito/2/productos/2",
 					"protocol": "https",
 					"host": [
 						"kind-silicon-airplane",
